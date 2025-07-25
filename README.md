@@ -45,17 +45,24 @@ The training is done in the `notebook.ipynb`:
 ## ⚙️ Installation
 
 1. Clone the repository:
-   git clone <your-repo-url>
-   cd <project-folder>
+  ```bash
+   git clone https://github.com/akhilamurarka/Churn-Prediction.git
 
+   cd Churn-Prediction
+  ```
 2. Install dependencies:
+  ```
    pip install -r requirements.txt
+   ```
 
    If `requirements.txt` is not available, install manually:
+   ```
    pip install streamlit joblib scikit-learn numpy pandas
-
+   ```
 3. Run the app:
+  ```
    streamlit run app.py
+   ```
 
 ## 💡 Example Input
 
