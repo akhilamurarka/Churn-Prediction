@@ -1,6 +1,8 @@
 
 # 🧠 Churn Prediction App
 
+🔗 [Live Demo](https://churn-prediction-mfujxgftnlsoin3gkdpyfd.streamlit.app/)
+
 A simple and interactive Streamlit web application that predicts customer churn based on user inputs such as age, tenure, monthly charges, and service details. It uses a machine learning model trained on customer behavior data to determine whether a customer is likely to churn or not.
 
 ## 📌 Project Overview
